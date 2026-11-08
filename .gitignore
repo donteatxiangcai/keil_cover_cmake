@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地杂项
+.VS Code/
+.vscode/*.log
+Thumbs.db
+.DS_Store
